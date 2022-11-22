@@ -37,7 +37,6 @@ function MySQL-TestConnection
 		$Password = "",
 		$Server = "",
 		$DBName = "",
-		$Query = "",
 		[bool]$Security = $false
 	)
 	$ErrorActionPreference = 'Stop'
